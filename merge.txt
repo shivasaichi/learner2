@@ -1,2 +1,1 @@
-This is a sample file to check the pull request.
-pull request is required before merging the code from feature branch to master/main branch, so that the senior tech leads can verify the code.
+I AM TRYING TO WORK ON GIT REBASE CONCEPT
